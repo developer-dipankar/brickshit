@@ -2,6 +2,7 @@
 <title><?php echo project()['name']; ?></title>
 <body>
   <p style="text-align: center; color: blue; font-size: 130px;">
+  	<p>Bad Request</p>
     <strong>404</strong>
   </p>
   <h1 style="text-align: center; color: blue;">
