@@ -1,0 +1,18 @@
+diff --git a/test.txt b/test.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/test3.txt b/test3.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/views/404.php b/views/404.php
+index ddbb414..d71478f 100644
+--- a/views/404.php
++++ b/views/404.php
+@@ -2,7 +2,6 @@
+ <title><?php echo project()['name']; ?></title>
+ <body>
+   <p style="text-align: center; color: blue; font-size: 130px;">
+-  	<p>Bad Request</p>
+     <strong>404</strong>
+   </p>
+   <h1 style="text-align: center; color: blue;">
